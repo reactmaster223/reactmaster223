@@ -7,10 +7,10 @@
       Will best service for you.
       Thanks.
 - ⚡ Fun fact: Coding, Game, Dancing, Beer...
-- 📫 My skype: live:.cid.6734401aa3d79e1e
-- 📫 My Gmail: lovetom.pro@gmail.com
+      - 📫 My skype: live:.cid.6734401aa3d79e1e
+      - 📫 My Gmail: lovetom.pro@gmail.com
 
-      Here are some of my work.
+Here are some of my work.
 ![screencapture-file-E-Front-end-design-Template-eventre-premium-themes-eventre-premium-index-html-2022-03-02-10_19_45](https://user-images.githubusercontent.com/97944031/166668127-f0b2c0e0-3a79-4db8-a10f-1dec8d8d02ad.png)
 ![screencapture-platform-safewojak-token-0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c-2022-01-25-18_42_38](https://user-images.githubusercontent.com/97944031/166668172-0d08d6b0-c62e-4e18-abe9-1fd3b210ff34.png)
 ![screencapture-localhost-3000-2022-01-30-16_08_08](https://user-images.githubusercontent.com/97944031/166668198-85b63b86-4881-49de-8c35-4d4fca387ee1.png)
