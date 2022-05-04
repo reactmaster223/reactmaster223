@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ladies and Gentle men! Welcome to by GitHub 👋
 
 - 🔭 I have been in the IT industry for over 7+ years and has experience in Web/Mobile/Blockchain developing. 
 - 🌱 Currently, as a senior full stack developer and project manager , we are focusing on developing web and DApps. 
