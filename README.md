@@ -8,4 +8,4 @@ Will best service for you.
 Thanks.
 
 - My skype: live:.cid.1facbd4ed0c022b3
-- My Gmail: lovetom.pro@gmail.com
+- My Gmail: cooltom.pro1@gmail.com
