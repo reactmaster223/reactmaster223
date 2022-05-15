@@ -7,5 +7,5 @@ Well experienced with erc-20, erc-721, erc-1155, tron-20, hrc-721, bep-20, unisw
 Will best service for you.
 Thanks.
 
-- My skype: live:.cid.6734401aa3d79e1e
+- My skype: live:.cid.1facbd4ed0c022b3
 - My Gmail: lovetom.pro@gmail.com
