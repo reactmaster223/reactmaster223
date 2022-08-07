@@ -7,4 +7,3 @@ project manager in my team.
 
 - My skype: live:.cid.6734401aa3d79e1e
 - My Gmail: lovetom.pro@gmail.com
-            kenjiyamamoto.dev@gmail.com
