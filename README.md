@@ -5,5 +5,5 @@ Web/Mobile/Blockchain development. Now I am
 working as a senior full stack developer and
 project manager in my team.
 
-- My Gmail: kenjiyamamoto.pro@gmail.com
+- My Gmail: lovetom.pro@gmail.com
 - My Skype: live:.cid.6734401aa3d79e1e
