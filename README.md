@@ -1,4 +1,4 @@
-🌐 Software and Hard ware engineer ✍️ Business Manager ✈️ IOT Provider
+🌐 IT engineer ✍️ Business Manager ✈️ IOT Provider
 - 👋 Hi, I’m @TOSHIBA223
 - 👀 I’m interested in IT industry.
 - 🌱 I’m currently business management, development.
