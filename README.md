@@ -22,21 +22,23 @@ You can see me as a world cup owner on world cup volleyball match, prince of dan
 
 📫 How to reach me ...? 🤝Connect with me with follow:
 
-Discord:
-TOSHIBA223#0094
-
 Gmail:
 lovetom.pro@gmail.com
 
 Skype:
 live:.cid.6734401aa3d79e1e
 
-Telegram:
-+1 802 316 8865
-+1 413 342 1680
+Discord:
+TOSHIBA223#0094
 
 Whatsapp:
 +1 802 316 8865
+
+Telegram:
++1 802 316 8865
+
++1 413 342 1680
+
 
 
 🧑‍💻 Skills
