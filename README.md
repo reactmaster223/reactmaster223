@@ -1,63 +1,43 @@
-🌐 Web Developer ✍️ Technical Writer ✈️ Internet Explorer
-
+🌐 Software and Hard ware engineer ✍️ Business Manager ✈️ IOT Provider
 - 👋 Hi, I’m @TOSHIBA223
 - 👀 I’m interested in IT industry.
 - 🌱 I’m currently business management, development.
 
 Interest 
-
 I like IT, Business management, Volley ball, Dancing , Gaming
-
 You can see me as a world cup owner on world cup volleyball match, prince of dancing, and millionaire.
 
 ❤Strategy
-
 “Before jumping into designing I always make sure that I'am asking the important questions and trying to accomplish the right challenges. This stage includes market research, competitive analyses, consulting and exploring possible solutions.”
 
 ❤Design
+“Problem solving. At the end of this phase you’ll have a pixel perfect design for your app or website. During the transition from wireframes into the final design I create prototypes simulating final end results before development.”
 
-“Problem solving. At the end of this phase you’ll have a pixel perfect design for your app or website. During the transition from wireframes, figma into the final design I create prototypes simulating final end results before development.”
-
-❤Development
-
+❤Working
 “Bringing designs to life. Since I’m a full stack developer, I can easily work in close collaboration with developers up until the finish line and beyond. I prefer challenging. My opinion: There is nothing that I can't.”
 
 ❤Quality assurance
-
 “Correct, fast progress. Complete overview of my project process through regular meetings. After the initial design versions I’m happy to do user testing with your customers to ensure the best possible solutions for their needs.”
 
 
 📫 How to reach me ...? 🤝Connect with me with follow:
 
-![angelist](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)
-![freelancer](https://img.shields.io/badge/Freelancer-29b2fe?style=for-the-badge&logo=Freelancer&logoColor=white)
-![upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=Upwork&logoColor=white)
-![glassdoor](https://img.shields.io/badge/Glassdoor-0caa41?style=for-the-badge&logo=Glassdoor&logoColor=white)
-
 ![discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=Discord&logoColor=white)
-Dreamfullstacker#7585
-
-![facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=Facebook&logoColor=white)
-
-![twitter](https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white)
+TOSHIBA223#0094
 
 ![gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=Gmail&logoColor=white)
-dreamfullstacker@gmail.com
-
-![linkedin](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)
-
+lovetom.pro@gmail.com
 
 ![skype](https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=Skype&logoColor=white)
-live:.cid.bd0340c874262123
+live:.cid.6734401aa3d79e1e
 
 ![telegram](https://img.shields.io/badge/Telegram-26a5e4?style=for-the-badge&logo=Telegram&logoColor=white)
-+447901140881
++1 802 316 8865
++1 413 342 1680
 
 ![whatsapp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=WhatsApp&logoColor=white)
-+447470723109
++1 802 316 8865
 
-![stackoverflow](https://img.shields.io/badge/StackOverflow-f58025?style=for-the-badge&logo=StackOverflow&logoColor=white)
-https://ethereum.stackexchange.com/users/90429/dream-fullstacker
 
 📜 Latest Blog Posts
 
