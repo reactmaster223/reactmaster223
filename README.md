@@ -25,10 +25,8 @@ You can see me as a world cup owner on world cup volleyball match, prince of dan
 
 
 
+My Contact Informations:
 
-📫 How to reach me ...? 
-
-🤝Connect with me with follow:
 
 Gmail:
 
