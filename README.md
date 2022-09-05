@@ -22,27 +22,21 @@ You can see me as a world cup owner on world cup volleyball match, prince of dan
 
 📫 How to reach me ...? 🤝Connect with me with follow:
 
-![discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=Discord&logoColor=white)
+Discord:
 TOSHIBA223#0094
 
-![gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=Gmail&logoColor=white)
+Gmail:
 lovetom.pro@gmail.com
 
-![skype](https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=Skype&logoColor=white)
+Skype:
 live:.cid.6734401aa3d79e1e
 
-![telegram](https://img.shields.io/badge/Telegram-26a5e4?style=for-the-badge&logo=Telegram&logoColor=white)
+Telegram:
 +1 802 316 8865
 +1 413 342 1680
 
 ![whatsapp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=WhatsApp&logoColor=white)
 +1 802 316 8865
-
-
-📜 Latest Blog Posts
-
-
-📊 Stats
 
 
 🧑‍💻 Skills
