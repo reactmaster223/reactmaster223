@@ -35,7 +35,7 @@ Telegram:
 +1 802 316 8865
 +1 413 342 1680
 
-![whatsapp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=WhatsApp&logoColor=white)
+Whatsapp:
 +1 802 316 8865
 
 
