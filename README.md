@@ -1,5 +1,5 @@
 🌐 IT engineer ✍️ Business Manager ✈️ IOT Provider
-- 👋 Hi, I’m @TOSHIBA223
+- 👋 Hi, I’m @TOSHIBA
 - 👀 I’m interested in IT industry.
 - 🌱 I’m currently learning business management, development.
 
