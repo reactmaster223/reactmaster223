@@ -31,19 +31,3 @@ My Contact Informations:
 Gmail:
 
 firewindfly@gmail.com
-
-Skype:
-
-live:.cid.6734401aa3d79e1e
-
-Discord:
-
-TOSHIBA223#0094
-
-Whatsapp:
-
-+1 802 316 8865
-
-Telegram:
-
-+1 802 316 8865
