@@ -30,7 +30,7 @@ My Contact Informations:
 
 Gmail:
 
-lovetom.pro@gmail.com
+firewindfly@gmail.com
 
 Skype:
 
