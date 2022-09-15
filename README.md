@@ -3,6 +3,23 @@
 - 👀 I’m interested in IT industry.
 - 🌱 I’m currently learning business management, development.
 
+Gmail:
+
+firewindfly@gmail.com
+
+Skype:
+
+live:.cid.6734401aa3d79e1e
+
+Whatsapp:
+
++18023168865
+
+Telegram:
+
++18023168865
+
+
 Interest 
 I like IT, Business management, Volley ball, Dancing , Gaming
 You can see me as a world cup owner on world cup volleyball match, prince of dancing, and millionaire.
