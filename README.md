@@ -22,12 +22,3 @@ You can see me as a world cup owner on world cup volleyball match, prince of dan
 ❤Quality assurance
 
 “Correct, fast progress. Complete overview of my project process through regular meetings. After the initial design versions I’m happy to do user testing with your customers to ensure the best possible solutions for their needs.”
-
-
-
-My Contact Informations:
-
-
-Gmail:
-
-firewindfly@gmail.com
