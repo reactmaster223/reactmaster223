@@ -19,6 +19,10 @@ Telegram:
 
 +18023168865
 
+Discord:
+
+TOSHIBA223#0094
+
 
 Interest 
 I like IT, Business management, Volley ball, Dancing , Gaming
