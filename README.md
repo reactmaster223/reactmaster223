@@ -11,17 +11,9 @@ Skype:
 
 live:.cid.6734401aa3d79e1e
 
-Whatsapp:
-
-+18023168865
-
-Telegram:
-
-+18023168865
-
 Discord:
 
-TOSHIBA223#0094
+IceSniper#0094
 
 
 Interest 
