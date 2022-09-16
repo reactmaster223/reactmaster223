@@ -11,6 +11,9 @@ Skype:
 
 live:.cid.6734401aa3d79e1e
 
+Telegram:
+@IceSniper223
+
 Discord:
 
 IceSniper#0094
