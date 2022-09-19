@@ -5,7 +5,7 @@
 
 Gmail:
 
-ice.fire.sky.sea@gmail.com
+lovetom.pro@gmail.com
 
 Skype:
 
