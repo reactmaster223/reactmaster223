@@ -1,5 +1,5 @@
 🌐 IT engineer ✍️ Business Manager ✈️ IOT Provider
-- 👋 Hi, I’m @Tinydev
+- 👋 Hi, I’m @Tom
 - 👀 I’m interested in IT industry.
 - 🌱 I’m currently learning business management, development.
 
