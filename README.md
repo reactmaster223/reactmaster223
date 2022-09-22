@@ -1,5 +1,5 @@
 🌐 IT engineer ✍️ Business Manager ✈️ IOT Provider
-- 👋 Hi, I’m @IceSniper
+- 👋 Hi, I’m @Tinydev
 - 👀 I’m interested in IT industry.
 - 🌱 I’m currently learning business management, development.
 
@@ -10,13 +10,6 @@ lovetom.pro@gmail.com
 Skype:
 
 live:.cid.6734401aa3d79e1e
-
-Telegram:
-@IceSniper223
-
-Discord:
-
-IceSniper#0094
 
 
 Interest 
