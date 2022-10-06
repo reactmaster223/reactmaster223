@@ -5,23 +5,7 @@
 
 Gmail:
 
-lovetom.pro@gmail.com
-
-Skype:
-
-live:.cid.6734401aa3d79e1e
-
-Discord:
-
-Tom Love#0094
-
-Telegram:
-
-+1 802 316 8865
-
-Whatsapp:
-
-+1 802 316 8865
+tomjerry.work223@gmail.com
 
 
 Interest 
