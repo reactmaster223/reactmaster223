@@ -5,7 +5,11 @@
 
 Gmail:
 
-tomjerry.work223@gmail.com
+lovetom.pro@gmail.com
+
+Skype:
+
+live:.cid.6734401aa3d79e1e
 
 
 Interest 
