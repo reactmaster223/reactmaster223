@@ -15,9 +15,8 @@ Skype:
 live:.cid.6734401aa3d79e1e
 
 
-Interest 
-I like IT, Business management, Volley ball, Dancing , Gaming
-You can see me as a world cup owner on world cup volleyball match, prince of dancing, and millionaire.
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hello!+This is +Lovely+Tom!;Full+Stack+Developer...;" style="max-width: 100%;">
+<br/>
 
 ❤Strategy
 
