@@ -15,7 +15,7 @@ Skype:
 live:.cid.6734401aa3d79e1e
 
 
-<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hello!+I+am+Lovely+Tom+!;Software+Engineer...;" style="max-width: 100%;">
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hello+!+I+am+Lovely+Tom+!;Software+Engineer...;" style="max-width: 100%;">
 <br/>
 
 ❤Strategy
