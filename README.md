@@ -40,7 +40,8 @@ live:.cid.6734401aa3d79e1e
 
 
 
-[![Readme Card](https://github.com/TomLove223/PetDog-Complete-Website/README.MD)](https://github.com/TomLove223/PetDog-Complete-Website)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=PetDog-Complete-Website)](https://github.com/TomLove223/PetDog-Complete-Website)
 <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=eFresh-Groceries-Website)](https://github.com/TomLove223/eFresh-Groceries-Website)
 <br />
@@ -61,6 +62,7 @@ live:.cid.6734401aa3d79e1e
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=DentalClinic-Website)](https://github.com/TomLove223/DentalClinic-Website)
 <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=UI-Assignment)](https://github.com/TomLove223/UI-Assignment)
+
 
 
 
