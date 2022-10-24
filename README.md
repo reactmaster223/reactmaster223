@@ -1,5 +1,5 @@
 <div>
-    <img align="right" alt="Coding" height="250" width="400" src="[https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif](https://user-images.githubusercontent.com/97944031/197514856-24d2ccd0-7004-4945-8a5b-aec77ca9990b.gif)">
+    <img align="right" alt="Coding" height="250" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 </div>
 🌐 IT engineer ✍️ Business Manager ✈️ IOT Provider
 - 👋 Hi, I’m @Tom
