@@ -5,7 +5,7 @@
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hello+!+I+am+Lovely+Tom+!;Software+Engineer...;" style="max-width: 100%;">
 <br/>
 
-🌐 IT engineer ✍️ Business Manager ✈️ IOT Provider
+🌐 Software engineer ✍️ Business Manager ✈️ IOT Provider
 - 👋 Hi, I’m @Tom
 - 👀 I’m interested in IT industry.
 - 🌱 I’m currently learning business management, development.
