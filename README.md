@@ -18,6 +18,9 @@ Skype:
 
 live:.cid.6734401aa3d79e1e
 
+Discord:
+Tom Love#0094
+
 ❤Strategy
 
 “Before jumping into designing I always make sure that I'am asking the important questions and trying to accomplish the right challenges. This stage includes market research, competitive analyses, consulting and exploring possible solutions.”
