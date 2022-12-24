@@ -19,6 +19,7 @@ Skype:
 live:.cid.6734401aa3d79e1e
 
 Discord:
+
 Tom Love#0094
 
 ❤Strategy
