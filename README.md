@@ -23,10 +23,7 @@ Discord:
 Tom Love#0094
 
 #### Web & Mobile Development
-- HTML5, CSS3, JavaScript, jQuery, Prototype
-- C#, .NET, .NET Core, ASP.NET, Entity Framework
-- TypeScript, Angular.js, React.js, Node.js, Express
-- Python, Django, Flask, Odoo
+- HTML5, CSS3, JavaScript, Typescript, Php, Node.js, Ruby, Go, Python, Dart, C++, C#
 - Cloud, AWS, Cloudinary, AWS Amplify, Azure, Firebase
 - Wordpress, Drupal, Joomla, Typo3
 - WooCommerce, Shopify, Magento, Drupal Commerce, OpenCart, Prestashop
@@ -45,8 +42,17 @@ Tom Love#0094
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 
-#### Windows desktop app Development
-- C++, Windows API, Qt, MFC, Python, pyQt, C#, .NET, .NET Core
+#### Cloud Service Support
+- Amazon Web Services (AWS), Microsoft Azure, Google Cloud (GCP—formerly Google Cloud Platform), IBM Cloud (formerly SoftLayer)
+Oracle Cloud
+Alibaba Cloud
+RedHat
+Heroku
+Digital Ocean
+CloudFlare
+Linode
+Cloudways
+Rackspace
 
 #### Blockchain Development
 - Creating fungible/non-fungible tokens (ERC20, ERC721, ERC1155, BEP20...)
