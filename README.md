@@ -48,14 +48,8 @@ Tom Love#0094
 - Google Cloud (GCP—formerly Google Cloud Platform)
 - IBM Cloud (formerly SoftLayer)
 - Oracle Cloud
-- Alibaba Cloud
-- RedHat
 - Heroku
-- Digital Ocean
-- CloudFlare
-- Linode
-- Cloudways
-- Rackspace
+
 
 #### Blockchain Development
 - Creating fungible/non-fungible tokens (ERC20, ERC721, ERC1155, BEP20...)
