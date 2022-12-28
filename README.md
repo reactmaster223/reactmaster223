@@ -28,13 +28,7 @@ Tom Love#0094
 - Codeigniter, Laravel, WordPress, Express, Nest.js, Ruby on Rails, Gin, Django, .NET
 
 #### Database
-- The Oracle
-- MySQL
-- MS SQL Server
-- PostgreSQL
-- MongoDB
-- IBM DB2
-- Redis
+Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
 
 #### Cloud Service Support
 - Amazon Web Services (AWS)
