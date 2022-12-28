@@ -184,7 +184,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
-  <a href="https://github.com/ValentineFernandes/Food-Website" target="_blank">
+  <a href="https://github.com/TomLove223/Food-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://valentinefernandes.github.io/Food-Website/" target="_blank">
@@ -219,7 +219,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       </p>
       <p align="center">
           
-  <a href="https://github.com/ValentineFernandes/DentalClinic-Website" target="_blank">
+  <a href="https://github.com/TomLove223/DentalClinic-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://valentinefernandes.github.io/DentalClinic-Website/" target="_blank">
@@ -250,7 +250,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
         <img src="https://img.shields.io/badge/Atom-00E68A?style=for-the-badge&logo=Atom&logoColor=white">
       </p>
       <p align="center">
-  <a href="https://github.com/ValentineFernandes/Interior-Design-Website" target="_blank">
+  <a href="https://github.com/TomLove223/Interior-Design-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://valentinefernandes.github.io/Interior-Design-Website/" target="_blank">
@@ -283,7 +283,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       </p>
       <p align="center">
           
-  <a href="https://github.com/ValentineFernandes/UI-Assignment" target="_blank">
+  <a href="https://github.com/TomLove223/UI-Assignment" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://valentinefernandes.github.io/UI-Assignment/" target="_blank">
@@ -313,7 +313,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       </p>
       <p align="center">
           
-  <a href="https://github.com/ValentineFernandes/calculator-light-dark-mode" target="_blank">
+  <a href="https://github.com/TomLove223/calculator-light-dark-mode" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://calculatorlightdarkmode.netlify.app" target="_blank">
