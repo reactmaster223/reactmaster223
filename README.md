@@ -69,7 +69,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       <h3 align="center">PetDog Complete Website</h3>
         <br />
         <a target="_blank" href="https://petdogwebsite.netlify.app">
-            <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img1.jpg" width="100%" alt="PetDog Complete Website"/>
+            <img src="https://github.com/TomLove223/Portfolio_Images/img1.jpg" width="100%" alt="PetDog Complete Website"/>
         </a>
         <br />
         <p><strong>This is a website to buy PetDog online.</strong></p>
@@ -99,7 +99,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       <h3 align="center">eFresh Groceries Website</h3>
         <br />
       <a target="_blank" href="https://efreshgroceries.netlify.app">
-            <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img2.jpg" width="100%"  alt="eFresh Groceries Website"/>
+            <img src="https://github.com/TomLove223/Portfolio_Images/img2.jpg" width="100%"  alt="eFresh Groceries Website"/>
         </a>
         <br />
         <p><strong>This is a website to buy groceries. </strong></p>
@@ -131,7 +131,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       <h3 align="center">eShop Website</h3>
         <br />
         <a target="_blank" href="http://localhost:8080/shopping-cart/index.jsp">
-          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop1.jpg" width="100%" alt="eShop Website"/>
+          <img src="https://github.com/TomLove223/Portfolio_Images/eshop1.jpg" width="100%" alt="eShop Website"/>
         </a>
         <br />
         <p><strong>This is a website to buy clothes online.</strong></p>
@@ -165,7 +165,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       <h3 align="center">Food Website</h3>
       <br />
         <a target="_blank" href="https://valentinefernandes.github.io/Food-Website/">
-          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img8.jpg" width="100%" alt="Food Website"/>
+          <img src="https://github.com/TomLove223/Portfolio_Images/img8.jpg" width="100%" alt="Food Website"/>
         </a>
       <br />
         <p><strong>This is a website to buy food online.</strong></p>
@@ -198,7 +198,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       <h3 align="center">Dental Website</h3>
         <br />
         <a target="_blank" href="https://valentinefernandes.github.io/DentalClinic-Website/">
-          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img9.jpg" width="100%" alt="Dental Website"/>
+          <img src="https://github.com/TomLove223/Portfolio_Images/img9.jpg" width="100%" alt="Dental Website"/>
         </a>
         <br />
         <p><strong>This is a dental clinic website.</strong></p>
@@ -231,7 +231,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       <h3 align="center">Interior Website</h3>
       <br />
         <a target="_blank" href="https://valentinefernandes.github.io/Interior-Design-Website/">
-          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/interior.jpg" width="100%" alt="Interior Design Website"/>
+          <img src="https://github.com/TomLove223/Portfolio_Images/interior.jpg" width="100%" alt="Interior Design Website"/>
         </a>
       <br />
         <p><strong>This is an interior design website.</strong></p>
@@ -264,7 +264,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       <h3 align="center">UI Assignment</h3>
         <br />
         <a target="_blank" href="https://valentinefernandes.github.io/UI-Assignment/">
-          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/ui.jpg" width="100%" alt="UI Assignment"/>
+          <img src="https://github.com/TomLove223/Portfolio_Images/ui.jpg" width="100%" alt="UI Assignment"/>
         </a>
         <br />
         <p><strong>This is a UI Assignment.</strong></p>
@@ -295,7 +295,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       <h3 align="center">Calculator <br/> Light/Dark</h3>
         <br />
         <a target="_blank" href="https://calculatorlightdarkmode.netlify.app">
-          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img6.jpg" width="100%" alt="Matching Cards"/>
+          <img src="https://github.com/TomLove223/Portfolio_Images/img6.jpg" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p><strong>This is a calculator with a light/dark mode.</strong></p>
