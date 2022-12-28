@@ -100,7 +100,7 @@ Tom Love#0094
       </p>
       <p align="center">
           
-  <a href="https://github.com/ValentineFernandes/PetDog-Complete-Website" target="_blank">
+  <a href="https://github.com/TomLove223/PetDog-Complete-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://petdogwebsite.netlify.app" target="_blank">
