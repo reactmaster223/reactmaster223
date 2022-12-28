@@ -10,18 +10,28 @@
 - 👀 I’m interested in IT industry.
 - 🌱 I’m currently learning business management.
 
-Gmail:
-
+<table>
+<tr>
+<td>
+Gmail
+</td>
+<td>
 lovetom.pro@gmail.com
-
-Skype:
-
+</td>
+<td>
+Skype
+</td>
+<td>
 live:.cid.6734401aa3d79e1e
-
-Discord:
-
+</td>
+<td>
+Discord
+</td>
+<td>
 Tom Love#0094
-
+</td>
+</tr>
+</table>
 
 #### Blockchain Development
 - Ethereum, Solana, Polygon...
