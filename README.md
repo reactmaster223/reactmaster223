@@ -31,7 +31,12 @@ Tom Love#0094
 Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
 
 #### Cloud Service Support
-Amazon Web Services (AWS), Microsoft Azure, Google Cloud (GCP—formerly Google Cloud Platform), IBM Cloud (formerly SoftLayer), Oracle Cloud, Heroku
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Google Cloud (GCP—formerly Google Cloud Platform)
+- IBM Cloud (formerly SoftLayer)
+- Oracle Cloud
+- Heroku
 
 #### Blockchain Development
 - Creating fungible/non-fungible tokens (ERC20, ERC721, ERC1155, BEP20...)
