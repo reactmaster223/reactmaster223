@@ -138,39 +138,6 @@ Tom Love#0094
       </p>
     </td>
   </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Calculator <br/> Light/Dark</h3>
-        <br />
-        <a target="_blank" href="https://calculatorlightdarkmode.netlify.app">
-          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img6.jpg" width="100%" alt="Matching Cards"/>
-        </a>
-        <br />
-        <p><strong>This is a calculator with a light/dark mode.</strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
-        <br/>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      </p>
-      <p align="left">
-        <strong> IDE used </strong>
-        <br/>
-        <img src="https://img.shields.io/badge/Atom-00E68A?style=for-the-badge&logo=Atom&logoColor=white">
-      </p>
-      <p align="center">
-          
-  <a href="https://github.com/ValentineFernandes/calculator-light-dark-mode" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://calculatorlightdarkmode.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-  </a>
-      </p>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">eShop Website</h3>
@@ -332,6 +299,36 @@ Tom Love#0094
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://valentinefernandes.github.io/UI-Assignment/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Calculator <br/> Light/Dark</h3>
+        <br />
+        <a target="_blank" href="https://calculatorlightdarkmode.netlify.app">
+          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img6.jpg" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p><strong>This is a calculator with a light/dark mode.</strong></p>
+      <p align="left">
+        <strong> Technologies used </strong>
+        <br/>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+      </p>
+      <p align="left">
+        <strong> IDE used </strong>
+        <br/>
+        <img src="https://img.shields.io/badge/Atom-00E68A?style=for-the-badge&logo=Atom&logoColor=white">
+      </p>
+      <p align="center">
+          
+  <a href="https://github.com/ValentineFernandes/calculator-light-dark-mode" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://calculatorlightdarkmode.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
   </a>
       </p>
