@@ -43,16 +43,19 @@ Tom Love#0094
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 
 #### Cloud Service Support
-- Amazon Web Services (AWS), Microsoft Azure, Google Cloud (GCP—formerly Google Cloud Platform), IBM Cloud (formerly SoftLayer)
-Oracle Cloud
-Alibaba Cloud
-RedHat
-Heroku
-Digital Ocean
-CloudFlare
-Linode
-Cloudways
-Rackspace
+-Amazon Web Services (AWS)
+-Microsoft Azure
+-Google Cloud (GCP—formerly Google Cloud Platform)
+-IBM Cloud (formerly SoftLayer)
+-Oracle Cloud
+-Alibaba Cloud
+-RedHat
+-Heroku
+-Digital Ocean
+-CloudFlare
+-Linode
+-Cloudways
+-Rackspace
 
 #### Blockchain Development
 - Creating fungible/non-fungible tokens (ERC20, ERC721, ERC1155, BEP20...)
