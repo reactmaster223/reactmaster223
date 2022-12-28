@@ -7,7 +7,7 @@
 
 🌐 Blockchain | AI | ML | DL Engineer ✍️ Business Manager ✈️ IOT Provider
 - 👋 Hi, I’m @Tom
-- 👀 I’m interested in IT industry.
+- 👀 I’m interested in Blockchain | AI | ML | DL.
 - 🌱 I’m currently learning business management.
 
 
