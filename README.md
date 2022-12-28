@@ -39,14 +39,14 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
 - Heroku
 
 #### Blockchain Development
-- Creating fungible/non-fungible tokens (ERC20, ERC721, ERC1155, BEP20...)
+- Ethereum, Solana, Polygon...
+- Solidity, Rust, C++, Web 3, Remix, Truffle
+- Creating fungible/non-fungible tokens with Standards (ERC20, ERC721, ERC1155, BEP20...)
 - DAO, DEX, AMM, Yield Farming, Staking dApps
-- Smart contract development & unit test
 - NFT marketplace, NFT minting
 - CEX Trading Bot (Crypto Exchange APIs, CCXT library)
 - DeFi Trading Bot (Flashloan Arbitrage Bot, DEX Sniper Bot, DEX Sandwich Bot) 
 - NFT mint bot, Opensea sniper bot, Opensea offer bot
-- Web3 chrome extension
 
 
 <h3 align="left">Languages and Tools:</h3>
