@@ -8,8 +8,8 @@
 🌐 Blockchain | AI | ML | DL Engineer ✍️ Business Manager ✈️ IOT Provider
 - 👋 Hi, I’m @Tom
 - 👀 I’m interested in IT industry.
-- 🌱 I’m currently learning business management, development.
-- 
+- 🌱 I’m currently learning business management.
+
 Gmail:
 
 lovetom.pro@gmail.com
