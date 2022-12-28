@@ -22,22 +22,6 @@ Discord:
 
 Tom Love#0094
 
-#### Frontend and Backend Development
-- HTML5, CSS3, JavaScript, Typescript, Php, Node.js, Ruby, Go, Python, Dart, C++, C#
-- React.js, Vue.js, Angular, Next.js, Nuxt.js, React Native, Flutter, Kotlin, Swift
-- Codeigniter, Laravel, WordPress, Express, Nest.js, Ruby on Rails, Gin, Django, .NET
-
-#### Database
-Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
-
-#### Cloud Service Support
-- Amazon Web Services (AWS)
-- Microsoft Azure
-- Google Cloud (GCP—formerly Google Cloud Platform)
-- IBM Cloud (formerly SoftLayer)
-- Oracle Cloud
-- Heroku
-
 
 #### Blockchain Development
 - Ethereum, Solana, Polygon...
@@ -57,6 +41,22 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
 - Robotic process automation
 - Peer-to-peer network
 - Deep learning platforms
+
+#### Frontend and Backend Development
+- HTML5, CSS3, JavaScript, Typescript, Php, Node.js, Ruby, Go, Python, Dart, C++, C#
+- React.js, Vue.js, Angular, Next.js, Nuxt.js, React Native, Flutter, Kotlin, Swift
+- Codeigniter, Laravel, WordPress, Express, Nest.js, Ruby on Rails, Gin, Django, .NET
+
+#### Database
+Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
+
+#### Cloud Service Support
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Google Cloud (GCP—formerly Google Cloud Platform)
+- IBM Cloud (formerly SoftLayer)
+- Oracle Cloud
+- Heroku
 
 
 <h3 align="left">Languages and Tools:</h3>
