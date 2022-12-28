@@ -10,6 +10,8 @@
 - 👀 I’m interested in IT industry.
 - 🌱 I’m currently learning business management.
 
+
+
 <table>
 <tr>
 <td>
