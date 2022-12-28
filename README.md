@@ -22,21 +22,42 @@ Discord:
 
 Tom Love#0094
 
-❤Strategy
+#### Web & Mobile Development
+- HTML5, CSS3, JavaScript, jQuery, Prototype
+- C#, .NET, .NET Core, ASP.NET, Entity Framework
+- TypeScript, Angular.js, React.js, Node.js, Express
+- Python, Django, Flask, Odoo
+- Cloud, AWS, Cloudinary, AWS Amplify, Azure, Firebase
+- Wordpress, Drupal, Joomla, Typo3
+- WooCommerce, Shopify, Magento, Drupal Commerce, OpenCart, Prestashop
+- Laravel, CodeIgniter, CakePHP,
+- GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
+- Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
+- Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin 
 
-“Before jumping into designing I always make sure that I'am asking the important questions and trying to accomplish the right challenges. This stage includes market research, competitive analyses, consulting and exploring possible solutions.”
 
-❤Design
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 
-“Problem solving. At the end of this phase you’ll have a pixel perfect design for your app or website. During the transition from wireframes into the final design I create prototypes simulating final end results before development.”
+#### Windows desktop app Development
+- C++, Windows API, Qt, MFC, Python, pyQt, C#, .NET, .NET Core
 
-❤Working
+#### Blockchain Development
+- Creating fungible/non-fungible tokens (ERC20, ERC721, ERC1155, BEP20...)
+- DAO, DEX, AMM, Yield Farming, Staking dApps
+- Smart contract development & unit test
+- NFT marketplace, NFT minting
+- CEX Trading Bot (Crypto Exchange APIs, CCXT library)
+- DeFi Trading Bot (Flashloan Arbitrage Bot, DEX Sniper Bot, DEX Sandwich Bot) 
+- NFT mint bot, Opensea sniper bot, Opensea offer bot
+- Web3 chrome extension
 
-“Bringing designs to life. Since I’m a full stack developer, I can easily work in close collaboration with developers up until the finish line and beyond. I prefer challenging. My opinion: There is nothing that I can't.”
-
-❤Quality assurance
-
-“Correct, fast progress. Complete overview of my project process through regular meetings. After the initial design versions I’m happy to do user testing with your customers to ensure the best possible solutions for their needs.”
 
 
 <h3 align="left">Languages and Tools:</h3>
