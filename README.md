@@ -2,7 +2,7 @@
     <img align="right" alt="Coding" height="250" width="400" src="https://github.com/TomLove223/Portfolio_Images/blob/main/Profile%20image.gif">
 </div>
 
-<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hello+!+I+am+Lovely+Tom+!;Blockchain+|+AI+Engineer...;" style="max-width: 100%; margin-bottom: 10px;">
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hello+!+I+am+Lovely+Tom+!;Blockchain+|+AI+Engineer...;" style="max-width: 100%;">
 <br/>
 
 🌐 Blockchain | AI | ML | DL Engineer ✍️ Business Manager ✈️ IOT Provider
@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning business management.
 
 
-
+<br>
 <table>
 <tr>
 <td>
