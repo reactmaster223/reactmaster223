@@ -153,7 +153,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       </p>
       <p align="center">
           
-  <a href="https://github.com/ValentineFernandes/eShop-Website" target="_blank">
+  <a href="https://github.com/TomLove223/eShop-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="http://localhost:8080/shopping-cart/index.jsp" target="_blank">
