@@ -2,10 +2,10 @@
     <img align="right" alt="Coding" height="250" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 </div>
 
-<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hello+!+I+am+Lovely+Tom+!;Blockchain+|+AI+|+Engineer...;" style="max-width: 100%;">
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hello+!+I+am+Lovely+Tom+!;Blockchain+|+AI+Engineer...;" style="max-width: 100%;">
 <br/>
 
-🌐 Blockchain | AI | ML | DL engineer ✍️ Business Manager ✈️ IOT Provider
+🌐 Blockchain | AI | ML | DL Engineer ✍️ Business Manager ✈️ IOT Provider
 - 👋 Hi, I’m @Tom
 - 👀 I’m interested in IT industry.
 - 🌱 I’m currently learning business management, development.
