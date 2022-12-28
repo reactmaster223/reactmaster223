@@ -16,16 +16,18 @@
 Gmail
 </td>
 <td>
-lovetom.pro@gmail.com
-</td>
-<td>
 Skype
 </td>
 <td>
-live:.cid.6734401aa3d79e1e
+Discord
+</td>
+</tr>
+<tr>
+<td>
+lovetom.pro@gmail.com
 </td>
 <td>
-Discord
+live:.cid.6734401aa3d79e1e
 </td>
 <td>
 Tom Love#0094
