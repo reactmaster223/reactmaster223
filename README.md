@@ -22,15 +22,19 @@ Discord:
 
 Tom Love#0094
 
-#### Web & Mobile Development
+#### Frontend and Backend Development
 - HTML5, CSS3, JavaScript, Typescript, Php, Node.js, Ruby, Go, Python, Dart, C++, C#
-- Cloud, AWS, Cloudinary, AWS Amplify, Azure, Firebase
-- Wordpress, Drupal, Joomla, Typo3
-- WooCommerce, Shopify, Magento, Drupal Commerce, OpenCart, Prestashop
-- Laravel, CodeIgniter, CakePHP,
-- GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
-- Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
-- Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin 
+- React.js, Vue.js, Angular, Next.js, Nuxt.js, React Native, Flutter, Kotlin, Swift
+- Codeigniter, Laravel, WordPress, Express, Nest.js, Ruby on Rails, Gin, Django, .NET
+
+#### Database
+- The Oracle
+- MySQL
+- MS SQL Server
+- PostgreSQL
+- MongoDB
+- IBM DB2
+- Redis
 
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
