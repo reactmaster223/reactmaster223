@@ -210,7 +210,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
     <td width="50%" valign="top">
       <h3 align="center">Dental Website</h3>
         <br />
-        <a target="_blank" href="https://valentinefernandes.github.io/DentalClinic-Website/">
+        <a target="_blank" href="https://TomLove223.github.io/DentalClinic-Website/">
           <img src="https://github.com/TomLove223/Portfolio_Images/blob/main/img9.jpg" width="100%" alt="Dental Website"/>
         </a>
         <br />
@@ -243,7 +243,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
     <td width="50%" valign="top">
       <h3 align="center">Interior Website</h3>
       <br />
-        <a target="_blank" href="https://valentinefernandes.github.io/Interior-Design-Website/">
+        <a target="_blank" href="https://TomLove223.github.io/Interior-Design-Website/">
           <img src="https://github.com/TomLove223/Portfolio_Images/blob/main/interior.jpg" width="100%" alt="Interior Design Website"/>
         </a>
       <br />
@@ -276,7 +276,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
     <td width="50%" valign="top">
       <h3 align="center">UI Assignment</h3>
         <br />
-        <a target="_blank" href="https://valentinefernandes.github.io/UI-Assignment/">
+        <a target="_blank" href="https://TomLove223.github.io/UI-Assignment/">
           <img src="https://github.com/TomLove223/Portfolio_Images/blob/main/ui.jpg" width="100%" alt="UI Assignment"/>
         </a>
         <br />
