@@ -56,9 +56,9 @@ Tom Love#0094
 - Deep learning platforms
 
 #### Frontend and Backend Development
-- HTML5, CSS3, JavaScript, Typescript, Php, Node.js, Ruby, Go, Python, Dart, C++, C#
-- React.js, Vue.js, Angular, Next.js, Nuxt.js, React Native, Flutter, Kotlin, Swift
-- Codeigniter, Laravel, WordPress, Express, Nest.js, Ruby on Rails, Gin, Django, .NET
+- HTML5, CSS3, JavaScript, Typescript, Php, Node.js, Ruby, Go, Python, Dart, C++
+- React.js, Vue.js, Angular, Next.js, Nuxt.js, React Native, Flutter
+- Codeigniter, Laravel, WordPress, Express, Nest.js, Ruby on Rails, Gin, Django
 
 #### Database
 Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
