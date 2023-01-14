@@ -2,7 +2,7 @@
     <img align="right" alt="Coding" height="250" width="400" src="https://github.com/TomLove223/Portfolio_Images/blob/main/Profile%20image.gif">
 </div>
 
-<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hello+!+Welcome+to+my+profile+!;Frontend|Blockchain+|+AI+Engineer...;" style="max-width: 100%;">
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hello+!+Welcome+to+my+profile+!;Frontend+|+Blockchain+|+AI+Engineer...;" style="max-width: 100%;">
 <br/>
 
 <p>I have 8 years of experience on frontend development. I focus on quality of product and keeping deadline with excellent passion as fire.
