@@ -34,10 +34,10 @@ Discord
     jinweiooi0223@gmail.com 
 </td>
 <td>
-live:.cid.6734401aa3d79e1e
+    live:.cid.6734401aa3d79e1e
 </td>
 <td>
-Tom Love#0094
+    Tom Love#0094
 </td>
 </tr>
 </table>
