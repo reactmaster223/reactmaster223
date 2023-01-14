@@ -5,10 +5,22 @@
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hello+!+I+am+Lovely+Tom+!;Blockchain+|+AI+Engineer...;" style="max-width: 100%;">
 <br/>
 
-🌐 Blockchain | AI | ML | DL Engineer ✍️ Business Manager ✈️ IOT Provider
-- 👋 Hi, I’m @Tom
-- 👀 I’m interested in Blockchain | AI | ML | DL.
-- 🌱 I’m currently learning business management.
+<p>I have 8 years of experience on frontend development. He focus on quality of product and keeping deadline with excellent passion as fire.
+He 've worked a lot in PWA, Hybrid app development as frontend developer using:
+
+- Frontend Web development : React.js, Next.js, Vue.js, Nuxt.js
+- Frontend Mobile development: React Native, Flutter
+- UI design libraries: Material-UI, Ant Design, React Bootstrap, BootstrapVue, Quasar, Vuetify
+
+Very good experienced Javascript, Typescript developer.
+Now focusing on frontend of blockchain platform development using React but can support Solidity, Web3.js , Ether.js, Truffle, Rust too.
+I good at backend also not only frontend.
+
+Prefer challenge jobs that need to learn more knowledge. 
+Will fast learn new technologies and take part in new challenges in short time.
+
+Looking forward hearing from you about new job opportunity.
+Thanks for checking my profile.</p>
 
 <br>
 <table>
