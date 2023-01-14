@@ -4,7 +4,7 @@
 
 <br/>
 <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hello+Welcome+to+my+profile+!;Frontend+|+Blockchain+|+AI+Engineer...;" style="max-width: 100%;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hello+Welcome+to+my+profile+!;Frontend+|+Blockchain+|+AI+Engineer;" style="max-width: 100%;">
 </div>
 <br/>
 
