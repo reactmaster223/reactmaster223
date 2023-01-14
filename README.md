@@ -8,8 +8,8 @@
 </div>
 <br/>
 
-<p>I have 8 years of experience on frontend development. I focus on quality of product and keeping deadline with excellent passion as fire.
-He 've worked a lot in PWA, Hybrid app development as frontend developer using:
+<p>I  has 7 years of experience on frontend development. I focus on quality of product and keeping deadline with excellent passion as fire.
+I 've worked a lot in PWA and Hybrid app development as frontend developer using:
 
 - Frontend Web development : React.js, Next.js, Vue.js, Nuxt.js
 - Frontend Mobile development: React Native, Flutter
