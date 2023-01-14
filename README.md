@@ -17,7 +17,7 @@ He 've worked a lot in PWA, Hybrid app development as frontend developer using:
 
 Very good experienced Javascript, Typescript developer.
 Now focusing on frontend of blockchain platform development using React but can support Solidity, Web3.js , Ether.js, Truffle, Rust too.
-I good at backend also not only frontend.
+I am good at backend also not only frontend.
 
 Prefer challenge jobs that need to learn more knowledge. 
 Will fast learn new technologies and take part in new challenges in short time.
