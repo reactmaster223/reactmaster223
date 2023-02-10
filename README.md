@@ -8,7 +8,7 @@
 </div>
 <br/>
 
-<p>Plus 7 years of experience on frontend development. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
+<p>Plus 10 years of experience on frontend development. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
 <br/>I 've worked a lot in PWA and Hybrid app development as frontend developer using:<br/>
 
 - Frontend Web development : React.js, Next.js, Vue.js, Nuxt.js
