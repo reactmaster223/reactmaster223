@@ -69,8 +69,6 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
 - Amazon Web Services (AWS)
 - Microsoft Azure
 - Google Cloud (GCP—formerly Google Cloud Platform)
-- IBM Cloud (formerly SoftLayer)
-- Oracle Cloud
 - Heroku
 
 #### Blockchain Development
