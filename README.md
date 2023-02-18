@@ -60,10 +60,10 @@ Discord
 #### Frontend and Backend Development
 - HTML5, CSS3, JavaScript, Typescript, Php, Node.js, Python, Dart, C++
 - React.js, Vue.js, Next.js, Nuxt.js, React Native, Flutter, Ionic
-- Codeigniter, Laravel, Express, Nest.js, Ruby on Rails, Gin, Django
+- Codeigniter, Laravel, Express, Nest.js, Django
 
 #### Database
-Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
+Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
 
 #### Cloud Service Support
 - Amazon Web Services (AWS)
