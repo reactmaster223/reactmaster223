@@ -15,7 +15,7 @@
 - Frontend Mobile development: React Native, Flutter
 - UI design libraries: Material-UI, Ant Design, React Bootstrap, BootstrapVue, Quasar, Vuetify
 
-Very good experienced Javascript, Typescript developer.
+Very good experienced Javascript, Typescript, Node.js developer. <br/>
 Now focusing on frontend of blockchain platform development using React but can support Solidity, Web3.js , Ether.js, Truffle, Rust too.
 I am good at backend also not only frontend.
 
