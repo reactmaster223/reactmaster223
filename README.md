@@ -35,18 +35,18 @@ Gmail
 Skype
 </td>
 <td>
-Discord
+Phone Number
 </td>
 </tr>
 <tr>
 <td>
-    lovetom.pro@gmail.com
+    kreagerservice21@gmail.com
 </td>
 <td>
-    live:.cid.6734401aa3d79e1e
+    live:.cid.c1a4be3c8050e568
 </td>
 <td>
-    Tom Love#0094
+    +1 412 567 3688
 </td>
 </tr>
 </table>
