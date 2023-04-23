@@ -72,6 +72,13 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
  - Audio/Video Streaming Server or Client/Player Development
  - On Demand Video Streaming of media codecs, formats, transports and container protocols, such as MPEG-2, H.264/AVC, AAC, AC3, MP4, TS, etc
  
+#### Machine Learning
+ - Object classification, detection, tracking, counting with deep learning.
+ - Human characteristics recognition(like age, gender, emotion and clothes etc)
+ - Clustering Related Problems ( KMeans, DBSCAN, HDBSCAN, Hierarchical Clustering)
+ - Data Analysis (Pandas, Numpy, Others)
+ - Data Visualisation ( Matplotlib, Seaborn)
+  
 #### Blockchain Development
 - Ethereum, Solana, Polygon...
 - Solidity, Rust, C++, Web 3, Remix, Truffle
