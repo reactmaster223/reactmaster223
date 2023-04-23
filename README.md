@@ -65,6 +65,13 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
 - Google Cloud (GCP—formerly Google Cloud Platform)
 - Heroku
 
+#### Video Streaming
+ - Live Video/Audio Streaming : HLS, MPEG-DASH, RTMP, RTSP, Smooth Streaming
+ - Live Streaming with Wowza, AWS Elemental MediaLive, Azure Media Service, Red5, Pexip, Encoding.com, Castr.io, Bunny.net
+ - Video conferencing with WebRTC : MediaSoup, OWT,Ant Medis Server,  Open-EasyRTC, openVidu, Janus, OvenMediaEngine
+ - Audio/Video Streaming Server or Client/Player Development
+ - On Demand Video Streaming of media codecs, formats, transports and container protocols, such as MPEG-2, H.264/AVC, AAC, AC3, MP4, TS, etc
+ 
 #### Blockchain Development
 - Ethereum, Solana, Polygon...
 - Solidity, Rust, C++, Web 3, Remix, Truffle
