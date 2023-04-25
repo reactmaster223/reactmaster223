@@ -3,10 +3,10 @@
 </div>
 
 <br/>
-<div>
+<!-- <div>
     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Welcome+to+my+profile+!;Frontend+|+Node.js;" style="max-width: 100%;">
-</div>
-<br/>
+</div> -->
+<!-- <br/> -->
 
 <p>Plus 10 years of experience on frontend development. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
 <br/>I 've worked a lot in PWA and Hybrid app development as frontend developer using:<br/>
