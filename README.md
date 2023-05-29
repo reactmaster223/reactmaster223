@@ -15,7 +15,7 @@
 - Frontend Mobile development: React Native, Flutter
 - UI design libraries: Material-UI, Ant Design, React Bootstrap, BootstrapVue, Quasar, Vuetify
 
-Very good experienced Javascript, Typescript, Node.js, Python developer.
+Very good experienced Javascript, Typescript, Node.js developer.
     
 Now focusing on blockchain platform development with AI technology.
     
