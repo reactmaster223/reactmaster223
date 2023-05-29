@@ -16,10 +16,10 @@
 - UI design libraries: Material-UI, Ant Design, React Bootstrap, BootstrapVue, Quasar, Vuetify
 
 Very good experienced Javascript, Typescript, Node.js developer. <br/>
-Now focusing on frontend of blockchain platform development using React but can support Solidity, Web3.js , Ether.js, Truffle, Rust too.
+Now focusing on blockchain platform development with AI technology.
 I am good at backend also not only frontend.
 
-Prefer challenge jobs that need to learn more knowledge. 
+Prefer challenge jobs that need to learn new technology that I don't know. 
 Will fast learn new technologies and take part in new challenges in short time.
 
 Looking forward hearing from you about new job opportunity.
