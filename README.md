@@ -23,7 +23,7 @@ Not only good at frontend but also backend. <br/>
 
 Prefer challenge jobs that need to learn new technology that I don't know.
     
-Will fast learn new technologies and take part in new challenges in short time.
+Will learn new technologies quickly and take part in new challenges asap.
     
 Looking forward hearing from you about new job opportunity.
     
