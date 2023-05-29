@@ -22,7 +22,7 @@ I am good at backend also not only frontend. <br/>
 Prefer challenge jobs that need to learn new technology that I don't know.  <br/>
 Will fast learn new technologies and take part in new challenges in short time. <br/>
 
-Looking forward hearing from you about new job opportunity.
+Looking forward hearing from you about new job opportunity. <br/>
 Thanks for checking my profile.</p>
 
 <br>
