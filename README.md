@@ -9,15 +9,15 @@
 <!-- <br/> -->
 
 <p>Plus 10 years of experience on frontend development. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
-<br/>I 've worked a lot in PWA and Hybrid app development as frontend developer using:<br/>
+<br/>Have worked a lot in PWA and Hybrid app development as frontend developer using:<br/>
 
 - Frontend Web development : React.js, Next.js, Vue.js, Nuxt.js
 - Frontend Mobile development: React Native, Flutter
 - UI design libraries: Material-UI, Ant Design, React Bootstrap, BootstrapVue, Quasar, Vuetify
 
-Very good experienced Javascript, Typescript, Node.js developer. <br/>
+Very good experienced Javascript, Typescript, Node.js, Python developer. <br/>
 Now focusing on blockchain platform development with AI technology. <br/>
-I am good at backend also not only frontend. <br/>
+Not only good at frontend but also backend. <br/>
 
 Prefer challenge jobs that need to learn new technology that I don't know.  <br/>
 Will fast learn new technologies and take part in new challenges in short time. <br/>
