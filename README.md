@@ -15,14 +15,18 @@
 - Frontend Mobile development: React Native, Flutter
 - UI design libraries: Material-UI, Ant Design, React Bootstrap, BootstrapVue, Quasar, Vuetify
 
-Very good experienced Javascript, Typescript, Node.js, Python developer. <br/>
-Now focusing on blockchain platform development with AI technology. <br/>
+Very good experienced Javascript, Typescript, Node.js, Python developer.
+    
+Now focusing on blockchain platform development with AI technology.
+    
 Not only good at frontend but also backend. <br/>
 
-Prefer challenge jobs that need to learn new technology that I don't know.  <br/>
-Will fast learn new technologies and take part in new challenges in short time. <br/>
-
-Looking forward hearing from you about new job opportunity. <br/>
+Prefer challenge jobs that need to learn new technology that I don't know.
+    
+Will fast learn new technologies and take part in new challenges in short time.
+    
+Looking forward hearing from you about new job opportunity.
+    
 Thanks for checking my profile.</p>
 
 <br>
