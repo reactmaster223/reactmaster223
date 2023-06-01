@@ -38,19 +38,13 @@ Gmail
 <td>
 Skype
 </td>
-<td>
-Phone Number
-</td>
 </tr>
 <tr>
 <td>
-    whitepearl.pro223@gmail.com
+    lovetom.pro@gmail.com
 </td>
 <td>
     live:.cid.6734401aa3d79e1e
-</td>
-<td>
-    +1 731 624 9819
 </td>
 </tr>
 </table>
