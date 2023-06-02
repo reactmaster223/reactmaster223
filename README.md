@@ -30,24 +30,6 @@ Looking forward hearing from you about new job opportunity.
 Thanks for checking my profile.</p>
 
 <br>
-<table>
-<tr>
-<td>
-Gmail
-</td>
-<td>
-Skype
-</td>
-</tr>
-<tr>
-<td>
-    lovetom.pro@gmail.com
-</td>
-<td>
-    live:.cid.6734401aa3d79e1e
-</td>
-</tr>
-</table>
 
 #### Frontend and Backend Development
 - HTML5, CSS3, JavaScript, Typescript, Php, Node.js, Python, Dart, C++
