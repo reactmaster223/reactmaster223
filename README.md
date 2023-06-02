@@ -29,8 +29,6 @@ Looking forward hearing from you about new job opportunity.
     
 Thanks for checking my profile.</p>
 
-<br>
-
 #### Frontend and Backend Development
 - HTML5, CSS3, JavaScript, Typescript, Php, Node.js, Python, Dart, C++
 - React.js, Vue.js, Next.js, Nuxt.js, React Native, Flutter, Ionic
