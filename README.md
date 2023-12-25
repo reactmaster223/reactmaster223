@@ -8,7 +8,7 @@
 </div> -->
 <!-- <br/> -->
 
-<p>Plus 10 years of experience on software development using Javascript, Typescript, Node.js. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
+<p>Plus 7 years of experience on software development using Javascript, Typescript, Node.js. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
 <br/>Have worked a lot in PWA and Hybrid app development as frontend developer using:<br/>
 
 - Frontend Web development : React.js, Next.js, Vue.js, Nuxt.js
