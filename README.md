@@ -8,20 +8,6 @@
 </div> -->
 <!-- <br/> -->
 
-<p>Plus 7 years of experience on software development using Javascript, Typescript, Node.js. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
-<br/>Have worked a lot in PWA and Hybrid app development as frontend developer using:<br/>
-
-- Frontend Web development : React.js, Next.js, Vue.js, Nuxt.js
-- Frontend Mobile development: React Native, Flutter
-- UI design libraries: Material-UI, Ant Design, React Bootstrap, BootstrapVue, Quasar, Vuetify
-
-Very good experienced Javascript, Typescript, Node.js developer.    <br/>
-Now focusing on blockchain platform development with AI technology.    <br/>
-Not only good at frontend but also backend. <br/>
-Prefer challenge jobs that need to learn new technology that I don't know.   <br/> 
-Will learn new technologies quickly and take part in new challenges asap.    <br/>
-Looking forward hearing from you about new job opportunity.    <br/>
-Thanks for checking my profile.</p>
 
 #### Frontend and Backend Development
 - HTML5, CSS3, JavaScript, Typescript, Php, Node.js, Python, Dart, C++
