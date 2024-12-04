@@ -1,14 +1,3 @@
-<div>
-    <img align="right" alt="Coding" height="250" width="400" src="https://github.com/TomLove223/Portfolio_Images/blob/main/Profile%20image.gif">
-</div>
-
-<br/>
-<!-- <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Welcome+to+my+profile+!;Frontend+|+Node.js;" style="max-width: 100%;">
-</div> -->
-<!-- <br/> -->
-
-
 #### Frontend and Backend Development
 - HTML5, CSS3, JavaScript, Typescript, Php, Node.js, Python, Dart, C++
 - React.js, Vue.js, Next.js, Nuxt.js, React Native, Flutter, Ionic
